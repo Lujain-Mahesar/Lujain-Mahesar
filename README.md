@@ -1,15 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Lujain%20Mahesar&fontSize=48&animation=twinkling&fontColor=1a1a2e&fontAlignY=35)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=170&section=header&text=Lujain%20Mahesar&fontSize=42&fontColor=7dd3fc&animation=fadeIn&desc=Final-Year%20CS%20Student%20%7C%20Aspiring%20Data%20Scientist&descSize=16&descAlignY=68" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist+%7C+AI%2FML+Enthusiast;Final-Year+CS+Student+%40+SZABIST+Larkana;Building+an+AI-based+document+fraud+detector+for+my+FYP;220-Day+Data+Science+Roadmap+%E2%80%94+in+progress)](https://github.com/Lujain-Mahesar)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=750&lines=Building+an+AI-based+document+fraud+detector+for+my+FYP;NLP+%26+Computer+Vision+Projects+%7C+220-Day+DS+Roadmap;Final-Year+CS+Student+%40+SZABIST+Larkana)](https://github.com/Lujain-Mahesar)
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-7dd3fc?style=for-the-badge&labelColor=1a1a2e)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-7dd3fc?style=for-the-badge&labelColor=0f2027)](https://linkedin.com/in/lujain-mahesar)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lujain-Mahesar&color=7dd3fc&style=flat-square&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Lujain-Mahesar?style=flat-square&color=7dd3fc&label=Followers)
 
 </div>
+
+<br>
 
 ## 🧠 Who I Am
 
@@ -34,33 +36,59 @@ const lujain = {
 };
 ```
 
+<br>
+
 ## 🚀 Featured Projects
 
-### 🔹 AI Resume Screening System
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![AI Resume Screening System](https://github-readme-stats.vercel.app/api/pin/?username=Lujain-Mahesar&repo=AI-Resume-Screening-System&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/Lujain-Mahesar/AI-Resume-Screening-System)
+### 📄 AI Resume Screening System
+
+An NLP-powered tool that parses resumes and ranks candidates against a job description using TF-IDF and cosine similarity, with an interactive dashboard for results.
+
+**Highlights**
+- Custom TF-IDF vectorization + similarity scoring pipeline
+- Interactive Plotly visualizations for match breakdowns
+- Deployed and publicly accessible via Streamlit Cloud
 
 | Layer | Technology |
-|---|---|
+|:--|:--|
 | Language | Python |
 | ML Technique | TF-IDF, Cosine Similarity |
 | Framework | Streamlit |
 | Visualization | Plotly |
 
-🔗 **Live:** [resume-ranked-ai.streamlit.app](https://resume-ranked-ai.streamlit.app) &nbsp;|&nbsp; 💻 **Code:** [AI-Resume-Screening-System](https://github.com/Lujain-Mahesar/AI-Resume-Screening-System)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-7dd3fc?style=flat-square&logo=streamlit&logoColor=1a1a2e)](https://resume-ranked-ai.streamlit.app)
+[![View Code](https://img.shields.io/badge/View%20Code-1a1a2e?style=flat-square&logo=github&logoColor=7dd3fc)](https://github.com/Lujain-Mahesar/AI-Resume-Screening-System)
 
-### 🔹 Intel Image Classification
+</td>
+<td width="50%" valign="top">
 
-[![Intel Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=Lujain-Mahesar&repo=Intel-classifier&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/Lujain-Mahesar/Intel-classifier)
+### 🖼️ Intel Image Classification
+
+A fine-tuned MobileNetV2 model that classifies natural scene images into 6 categories, served through a Flask API and containerized for consistent deployment.
+
+**Highlights**
+- Transfer learning on MobileNetV2, tuned to 90.53% accuracy
+- Packaged with Docker for reproducible deployment
+- Automated build & test pipeline via GitHub Actions
 
 | Layer | Technology |
-|---|---|
-| Model | MobileNetV2 (fine-tuned, 90.53% accuracy) |
+|:--|:--|
+| Model | MobileNetV2 (fine-tuned) |
 | Serving | Flask |
 | Containerization | Docker |
 | CI/CD | GitHub Actions |
 
-💻 **Code:** [Intel-classifier](https://github.com/Lujain-Mahesar/Intel-classifier)
+[![View Code](https://img.shields.io/badge/View%20Code-1a1a2e?style=flat-square&logo=github&logoColor=7dd3fc)](https://github.com/Lujain-Mahesar/Intel-classifier)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -80,20 +108,24 @@ const lujain = {
 
 ![Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,mongodb)
 
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Lujain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lujain-Mahesar&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lujain-Mahesar&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=Lujain-Mahesar&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lujain-Mahesar&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" height="165"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lujain-Mahesar&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc)
+<img src="https://streak-stats.demolab.com/?user=Lujain-Mahesar&background=0f2027&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&stroke=7dd3fc" width="100%"/>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Lujain-Mahesar&theme=nord&no-frame=true&no-bg=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Lujain-Mahesar&theme=nord&no-frame=true&no-bg=true&row=1&column=7"/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lujain-Mahesar&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lujain-Mahesar&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true" width="100%"/>
 
 </div>
+
+<br>
 
 ## 🔗 Connect With Me
 
@@ -105,4 +137,4 @@ const lujain = {
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=100&section=footer" width="100%"/>
