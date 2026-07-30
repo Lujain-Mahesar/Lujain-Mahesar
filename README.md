@@ -114,12 +114,7 @@ A fine-tuned MobileNetV2 model that classifies natural scene images into 6 categ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lujain-Mahesar&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&cache_seconds=1800&cb=2" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lujain-Mahesar&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&cache_seconds=1800&cb=2" height="165"/>
-
 <img src="https://streak-stats.demolab.com/?user=Lujain-Mahesar&background=0f2027&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&stroke=7dd3fc" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lujain-Mahesar&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8&cb=2"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lujain-Mahesar&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true" width="100%"/>
 
