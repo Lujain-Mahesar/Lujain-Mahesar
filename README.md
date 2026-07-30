@@ -116,7 +116,7 @@ A fine-tuned MobileNetV2 model that classifies natural scene images into 6 categ
 
 <img src="https://streak-stats.demolab.com/?user=Lujain-Mahesar&background=0f2027&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&stroke=7dd3fc" width="100%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lujain-Mahesar&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lujain-Mahesar&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
